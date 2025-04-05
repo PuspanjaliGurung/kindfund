@@ -1,0 +1,92 @@
+/* KindFund Admin Stylesheet */
+
+/* Custom Properties */
+:root {
+    --primary-color: #5D5CDE;
+    --primary-dark: #4847B9;
+    --secondary-color: #9333EA;
+    --secondary-dark: #7E22CE;
+    --light-bg: #FFFFFF;
+    --dark-bg: #181818;
+    --light-text: #1F2937;
+    --dark-text: #F3F4F6;
+    --light-gray: #F9FAFB;
+    --dark-gray: #111827;
+    --border-radius: 0.5rem;
+    --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    --transition: all 0.3s ease;
+}
+
+/* Dark mode variables */
+.dark {
+    --primary-color: #6366F1;
+    --primary-dark: #4F46E5;
+}
+
+/* Global Styles */
+body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    line-height: 1.5;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Sidebar */
+aside {
+    height: calc(100vh - 64px);
+    position: sticky;
+    top: 64px;
+}
+
+/* Tables */
+th, td {
+    padding: 0.75rem 1rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .md\:hidden {
+        display: none;
+    }
+    
+    .pb-20 {
+        padding-bottom: 5rem;
+    }
+}
+
+/* Form styling */
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+textarea,
+select {
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus,
+input[type="number"]:focus,
+textarea:focus,
+select:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(93, 92, 222, 0.2);
+}
+
+/* Buttons */
+.btn {
+    transition: all 0.3s ease;
+}
+
+.btn:hover {
+    transform: translateY(-1px);
+}
+
+.btn:active {
+    transform: translateY(0);
+}
+
+/* Dark mode support for specific elements */
+.dark .bg-gray-750 {
+    background-color: #1a202c;
+}
