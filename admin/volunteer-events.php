@@ -27,13 +27,18 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         // Handle image upload
         $eventImage = '';
+        $uploadDir = '../uploads/events/';
+        if (!is_dir($uploadDir)) {
+            mkdir($uploadDir, 0777, true);
+        }
+
         if (isset($_FILES['event_image']) && $_FILES['event_image']['error'] === 0) {
             $allowedTypes = ['image/jpeg', 'image/png', 'image/jpg'];
             $maxSize = 2 * 1024 * 1024; // 2MB
 
             if (in_array($_FILES['event_image']['type'], $allowedTypes) && $_FILES['event_image']['size'] <= $maxSize) {
                 $fileName = time() . '_' . basename($_FILES['event_image']['name']);
-                $targetPath = '../uploads/events/' . $fileName;
+                $targetPath = $uploadDir . $fileName;
 
                 if (move_uploaded_file($_FILES['event_image']['tmp_name'], $targetPath)) {
                     $eventImage = $fileName;

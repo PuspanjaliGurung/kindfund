@@ -2,6 +2,11 @@
 // Include error logging
 require_once 'log_errors.php';
 
+// Enable error reporting for debugging
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
 // Include configuration files
 require_once 'config/config.php';
 require_once 'config/db.php';
@@ -56,9 +61,13 @@ error_log("Include Path: " . get_include_path());
 // Include header
 include 'includes/header.php';
 
-
-// Load the requested page
-include 'pages/' . $page . '.php';
+// Check if the requested page file exists
+if (file_exists('pages/' . $page . '.php')) {
+    // Load the requested page
+    include 'pages/' . $page . '.php';
+} else {
+    echo "<h1>404 - Page Not Found</h1>";
+}
 
 // Include footer
 include 'includes/footer.php';

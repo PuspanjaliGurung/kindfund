@@ -4,9 +4,6 @@ require_once __DIR__ . '/../includes/admin-auth.php';
 // Get active campaigns
 $campaigns = getActiveCampaigns(6);
 
-// Get upcoming events
-$events = getUpcomingEvents(3);
-
 // Get recommended campaigns if user is logged in and not admin
 $recommended = [];
 if (isLoggedIn() && !isAdmin()) {
@@ -44,10 +41,15 @@ if (isLoggedIn() && !isAdmin()) {
         <?php foreach ($campaigns as $campaign): ?>
             <div class="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden transition-transform duration-300 hover:shadow-lg hover:-translate-y-1">
                 <div class="h-48 bg-gray-300 dark:bg-gray-700 relative">
-                    <!-- Placeholder for campaign image -->
-                    <div class="absolute inset-0 flex items-center justify-center">
-                        <span class="text-lg font-bold text-gray-600 dark:text-gray-400"><?php echo $campaign['title']; ?></span>
-                    </div>
+                    <?php if (!empty($campaign['campaign_image'])): ?>
+                        <img src="<?php echo SITE_URL; ?>/uploads/campaigns/<?php echo htmlspecialchars($campaign['campaign_image']); ?>" 
+                             alt="<?php echo htmlspecialchars($campaign['title']); ?>"
+                             class="w-full h-full object-cover">
+                    <?php else: ?>
+                        <div class="absolute inset-0 flex items-center justify-center">
+                            <span class="text-lg font-bold text-gray-600 dark:text-gray-400">No Image Available</span>
+                        </div>
+                    <?php endif; ?>
                 </div>
                 <div class="p-4">
                     <div class="flex justify-between items-center mb-2">

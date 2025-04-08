@@ -4107,3 +4107,660 @@ Stack trace:
 [05-Apr-2025 09:10:41 Europe/Berlin] Include Path: C:\xampp\php\PEAR
 [05-Apr-2025 09:10:42 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
 [05-Apr-2025 09:10:42 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[05-Apr-2025 10:51:01 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[05-Apr-2025 10:51:01 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:50:18 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:50:18 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:50:18 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:50:18 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 14:50:18 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:50:18 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 14:50:23 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:50:23 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:52:33 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:52:33 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:53:24 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:53:24 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:54:09 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:54:09 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:54:13 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:54:13 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:54:25 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:54:25 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:54:25 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:54:25 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 14:54:25 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:54:25 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 14:54:45 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:54:45 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:54:45 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:54:45 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 14:54:45 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:54:45 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 14:54:58 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:54:58 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:54:58 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:54:58 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 14:54:58 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:54:58 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 14:54:58 Europe/Berlin] User logged in: sujal
+[08-Apr-2025 14:54:58 Europe/Berlin] Logged in status: 1
+[08-Apr-2025 14:54:58 Europe/Berlin] User type: admin
+[08-Apr-2025 14:54:58 Europe/Berlin] Session ID: vjqoivrnufaql0u2dac103khrb
+[08-Apr-2025 14:54:58 Europe/Berlin] Logged In: true
+[08-Apr-2025 14:54:58 Europe/Berlin] Username: sujal
+[08-Apr-2025 14:54:58 Europe/Berlin] User Type: admin
+[08-Apr-2025 14:55:10 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:55:10 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:55:10 Europe/Berlin] Starting donation receipt page
+[08-Apr-2025 14:55:10 Europe/Berlin] Donation ID: 14
+[08-Apr-2025 14:55:10 Europe/Berlin] User is logged in: 1
+[08-Apr-2025 14:55:10 Europe/Berlin] Is admin: 1
+[08-Apr-2025 14:55:10 Europe/Berlin] Query result rows: 1
+[08-Apr-2025 14:55:38 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:55:38 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:55:40 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:55:40 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:55:43 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:55:43 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:56:42 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:56:42 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:56:42 Europe/Berlin] Starting donation receipt page
+[08-Apr-2025 14:56:42 Europe/Berlin] Donation ID: 11
+[08-Apr-2025 14:56:42 Europe/Berlin] User is logged in: 1
+[08-Apr-2025 14:56:42 Europe/Berlin] Is admin: 1
+[08-Apr-2025 14:56:42 Europe/Berlin] Query result rows: 1
+[08-Apr-2025 14:56:45 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:56:45 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:57:14 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:57:14 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:57:15 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:57:15 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:57:31 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:57:31 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:58:53 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:58:53 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:58:53 Europe/Berlin] User logged in: Elina
+[08-Apr-2025 14:58:53 Europe/Berlin] Logged in status: 1
+[08-Apr-2025 14:58:53 Europe/Berlin] User type: donor
+[08-Apr-2025 14:58:53 Europe/Berlin] Session ID: 2mes0sgtv55mnjt2f3ccp6afqp
+[08-Apr-2025 14:58:53 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:58:53 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:58:53 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 14:59:01 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:01 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:03 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:03 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:14 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:14 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:14 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 14:59:15 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:15 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 14:59:17 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:17 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:17 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 14:59:18 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:18 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:20 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:20 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:20 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 14:59:21 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:21 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:22 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:22 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:22 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:22 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:24 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:24 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:28 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:28 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:28 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 14:59:33 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:33 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 14:59:35 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:35 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:35 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 14:59:35 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:35 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 14:59:36 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:36 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 14:59:36 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:36 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 14:59:51 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:51 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:51 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 14:59:57 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:57 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:57 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 14:59:58 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 14:59:58 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 14:59:58 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 15:00:03 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:00:03 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:00:03 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 15:00:06 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:00:06 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:00:06 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:00:06 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:00:06 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:00:06 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:00:22 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:00:22 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:00:22 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:00:22 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:00:22 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:00:22 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:00:39 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:00:39 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:00:39 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:00:39 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:00:39 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:00:39 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:00:50 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:00:50 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:00:50 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:00:50 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:00:50 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:00:50 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:01:02 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:01:02 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:01:02 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:01:02 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:01:02 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:01:02 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:01:16 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:01:16 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:01:16 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:01:16 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:01:16 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:01:16 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:01:16 Europe/Berlin] User logged in: evaa
+[08-Apr-2025 15:01:16 Europe/Berlin] Logged in status: 1
+[08-Apr-2025 15:01:16 Europe/Berlin] User type: donor
+[08-Apr-2025 15:01:16 Europe/Berlin] Session ID: bs1qcpagihfql5l75d5ncurthg
+[08-Apr-2025 15:01:16 Europe/Berlin] Logged In: true
+[08-Apr-2025 15:01:16 Europe/Berlin] Username: evaa
+[08-Apr-2025 15:01:16 Europe/Berlin] User Type: donor
+[08-Apr-2025 15:01:16 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:01:16 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:01:16 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 15:01:19 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:01:19 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:01:27 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:01:27 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:01:27 Europe/Berlin] Starting donation receipt page
+[08-Apr-2025 15:01:27 Europe/Berlin] Donation ID: 12
+[08-Apr-2025 15:01:27 Europe/Berlin] User is logged in: 5
+[08-Apr-2025 15:01:27 Europe/Berlin] Is admin: 0
+[08-Apr-2025 15:01:27 Europe/Berlin] Query result rows: 1
+[08-Apr-2025 15:01:30 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:01:30 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:01:30 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 15:01:36 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:01:36 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:01:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 15:01:41 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:01:41 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:05:36 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:05:36 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:05:38 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:05:38 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:05:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(67): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 15:05:39 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:05:39 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:05:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(67): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 15:05:39 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:05:39 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:05:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(67): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 15:06:09 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:06:09 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:06:10 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:06:10 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:06:48 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:06:48 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:06:48 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(67): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 15:06:49 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:06:49 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:06:49 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(67): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 15:07:37 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:07:37 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:07:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 15:07:38 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:07:38 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:07:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 15:07:38 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:07:38 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:07:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 15:07:38 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:07:38 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:07:38 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'kindfund.events' doesn't exist in C:\xampp\htdocs\kindfund\includes\functions.php:124
+Stack trace:
+#0 C:\xampp\htdocs\kindfund\includes\functions.php(124): mysqli->prepare('SELECT e.*, ch....')
+#1 C:\xampp\htdocs\kindfund\pages\home.php(8): getUpcomingEvents(3)
+#2 C:\xampp\htdocs\kindfund\index.php(61): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\kindfund\includes\functions.php on line 124
+[08-Apr-2025 15:07:52 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:07:52 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:08:07 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:08:07 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:08:16 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:08:16 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:08:18 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:08:18 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:08:20 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:08:20 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:09:50 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:09:50 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:09:57 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:09:57 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:09:59 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:09:59 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:10:01 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:10:01 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:10:15 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:10:15 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:10:21 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:10:21 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:11:07 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:11:07 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:11:09 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:11:09 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:12:32 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:12:32 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:12:35 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:12:35 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:12:37 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:12:37 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:12:37 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:12:37 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:12:37 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:12:37 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:12:46 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:12:46 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:12:46 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:12:46 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:12:46 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:12:46 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:12:55 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:12:55 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:12:55 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:12:55 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:12:55 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:12:55 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:13:02 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:13:02 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:13:02 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:13:02 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:13:02 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:13:02 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:13:12 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:13:12 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:13:12 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:13:12 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:13:12 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:13:12 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:15:42 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:15:42 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:15:44 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:15:44 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:15:44 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:15:44 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:15:44 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:15:44 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:15:45 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:15:45 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:20:19 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:20:19 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:28:58 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:28:58 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:28:59 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:28:59 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:29:04 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:29:04 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:29:10 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:29:10 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:29:12 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:29:12 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:29:20 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:29:20 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:34:41 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:34:41 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:34:43 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:34:43 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:35:53 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:35:53 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:35:56 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:35:56 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:36:43 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:36:43 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:36:44 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:36:44 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:36:44 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:36:44 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:36:45 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:36:45 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:36:45 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:36:45 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:36:45 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:36:45 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:37:01 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:37:01 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:38:43 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:38:43 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:38:46 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:38:46 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:39:05 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:39:05 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:39:15 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:39:15 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:39:15 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:39:15 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:39:15 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:39:15 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:39:21 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:39:21 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:39:21 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:39:21 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:39:21 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:39:21 Europe/Berlin] Expected Path for auth.php: 
+[08-Apr-2025 15:39:21 Europe/Berlin] User logged in: sujal
+[08-Apr-2025 15:39:21 Europe/Berlin] Logged in status: 1
+[08-Apr-2025 15:39:21 Europe/Berlin] User type: admin
+[08-Apr-2025 15:39:21 Europe/Berlin] Session ID: bs1qcpagihfql5l75d5ncurthg
+[08-Apr-2025 15:39:21 Europe/Berlin] Logged In: true
+[08-Apr-2025 15:39:21 Europe/Berlin] Username: sujal
+[08-Apr-2025 15:39:21 Europe/Berlin] User Type: admin
+[08-Apr-2025 15:39:21 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:39:21 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:40:53 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:40:53 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:40:55 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:40:55 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:41:00 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:41:00 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:41:38 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:41:38 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:41:46 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:41:46 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:41:48 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:41:48 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:42:32 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:42:32 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:43:05 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:43:05 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:43:07 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:43:07 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:43:17 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:43:17 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:43:20 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:43:20 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:44:20 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:44:20 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:44:23 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:44:23 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:44:40 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:44:40 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:44:43 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:44:43 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:45:25 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:45:25 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:45:27 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:45:27 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:45:29 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:45:29 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:45:30 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:45:30 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:45:31 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:45:31 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:45:32 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:45:32 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:45:34 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:45:34 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:45:36 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:45:36 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:46:03 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:46:03 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:46:11 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:46:11 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:46:14 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:46:14 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:47:42 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:47:42 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:47:53 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:47:53 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:48:04 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:48:04 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:48:25 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:48:25 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:48:27 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:48:27 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:51:22 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:51:22 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:51:51 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:51:51 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:51:54 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:51:54 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:52:10 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:52:10 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:52:12 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:52:12 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:52:18 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:52:18 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:52:24 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:52:24 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:53:01 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:53:01 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:53:02 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:53:02 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:53:04 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:53:04 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:53:06 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:53:06 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:53:11 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:53:11 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:53:31 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:53:31 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:53:34 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:53:34 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:53:37 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:53:37 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:53:42 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:53:42 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:54:59 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:54:59 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:55:46 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:55:46 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:56:06 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:56:06 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:56:13 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:56:13 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:56:19 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:56:19 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:56:38 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:56:38 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:58:40 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:58:40 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:58:41 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:58:41 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:58:41 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endforeach" in C:\xampp\htdocs\kindfund\pages\home.php on line 86
+[08-Apr-2025 15:58:42 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:58:42 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 15:58:42 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endforeach" in C:\xampp\htdocs\kindfund\pages\home.php on line 86
+[08-Apr-2025 15:59:20 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 15:59:20 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 16:01:34 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 16:01:34 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 16:01:38 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 16:01:38 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 16:01:44 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 16:01:44 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 16:01:48 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 16:01:48 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 16:01:51 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 16:01:51 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 16:01:52 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 16:01:52 Europe/Berlin] Include Path: C:\xampp\php\PEAR
+[08-Apr-2025 16:01:55 Europe/Berlin] Current Working Directory: C:\xampp\htdocs\kindfund
+[08-Apr-2025 16:01:55 Europe/Berlin] Include Path: C:\xampp\php\PEAR

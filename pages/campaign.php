@@ -280,21 +280,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['donate'])) {
                         <input type="hidden" name="amount" id="amount_value" value="500">
                         
                         <div class="mb-4">
-                            <label class="block text-gray-700 dark:text-gray-300 text-sm font-bold mb-2">Select Amount (NPR)</label>
-                            <div class="grid grid-cols-3 gap-2 mb-2">
-                                <div class="amount-option active bg-indigo-100 dark:bg-indigo-900 text-indigo-800 dark:text-indigo-200 rounded-lg py-2 text-center cursor-pointer hover:bg-indigo-200 dark:hover:bg-indigo-800 transition duration-200" data-amount="500">
-                                    Rs. 500
-                                </div>
-                                <div class="amount-option bg-gray-100 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-lg py-2 text-center cursor-pointer hover:bg-indigo-100 dark:hover:bg-indigo-900 transition duration-200" data-amount="1000">
-                                    Rs. 1,000
-                                </div>
-                                <div class="amount-option bg-gray-100 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-lg py-2 text-center cursor-pointer hover:bg-indigo-100 dark:hover:bg-indigo-900 transition duration-200" data-amount="2000">
-                                    Rs. 2,000
-                                </div>
-                            </div>
+                        
                             
                             <div class="mt-2">
-                                <label for="custom-amount" class="block text-gray-700 dark:text-gray-300 text-sm mb-1">Or enter custom amount:</label>
+                                <label for="custom-amount" class="block text-gray-700 dark:text-gray-300 text-sm mb-1"> enter custom amount:</label>
                                 <div class="relative">
                                     <span class="absolute inset-y-0 left-0 flex items-center pl-3 text-gray-600 dark:text-gray-400">Rs.</span>
                                     <input type="number" id="custom-amount" class="w-full pl-10 pr-3 py-2 text-base border rounded-lg text-gray-700 dark:text-gray-300 dark:bg-gray-700 dark:border-gray-600 focus:outline-none focus:border-indigo-500" min="10" placeholder="Enter amount">
